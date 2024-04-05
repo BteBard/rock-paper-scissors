@@ -1,2 +1,3 @@
 # rock-paper-scissors
 it is a simple rock-paper-scissors game made in c
+Author-Debjit Sen
